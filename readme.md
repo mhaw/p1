@@ -13,6 +13,6 @@ n/a
 n/a
 
 ## Outside Code
-jQuery <http://jquery.com/>
-BootStrap <http://getbootstrap.com/>
-StartBootStrap Theme <http://startbootstrap.com/templates/portfolio-item/>
+* jQuery <http://jquery.com/>
+* BootStrap <http://getbootstrap.com/>
+* StartBootStrap Theme <http://startbootstrap.com/templates/portfolio-item/>
