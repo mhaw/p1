@@ -17,37 +17,53 @@
     <![endif]-->
   </head>
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Home</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                        <div class="dropdown">
-							<button class="btn btn-inverse dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
-							Project 1
-							<span class="caret"></span>
-							</button>
-								<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-									<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Live Link</a></li>
-									<li role="presentation"><a role="menuitem" tabindex="-1" href="#">GitHub</a></li>
-								</ul>
-							</div>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-    
+<!-- Fixed navbar -->
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">MHAW</a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Project 1 <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="http://p1.mikehaw.me">Live Link</a></li>
+            <li><a href="https://github.com/mhaw/p1">GitHub</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Project 2 <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="http://p2.mikehaw.me">Live Link</a></li>
+            <li><a href="https://github.com/mhaw/p2">GitHub</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Project 3 <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="http://p3.mikehaw.me">Live Link</a></li>
+            <li><a href="https://github.com/mhaw/p3">GitHub</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Project 4 <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="http://p4.mikehaw.me">Live Link</a></li>
+            <li><a href="https://github.com/mhaw/p4">GitHub</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
+
     <br>
 
     <!-- Page Content -->
@@ -102,7 +118,7 @@
         <!-- /.row -->
 
         <hr>
-		
+
 		<!-- Footer -->
         <footer>
             <div class="row">
