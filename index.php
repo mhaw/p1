@@ -88,7 +88,7 @@
 
             <div class="col-md-4">
                 <h3>About</h3>
-                <p>I am a student at the Harvard Extension School working towards an ALM in Information Technology. In my professional life I am project manager for a legal technology services company. In my free time I enjoy spending time with my wife and dog, cooking, and occasionally climbing mountains.</p>
+                <p>I am a student at the Harvard Extension School working towards an ALM in Information Technology. In my professional life I am project manager for a legal technology services company. In my free time I enjoy spending time with my wife and our dog, cooking, and occasionally climbing mountains.</p>
 
             </div>
 
